@@ -1,0 +1,25 @@
+{
+"Puzzled Brawlers" : 01 [
+ {
+ "Name": "Stean Barley",
+ "Occupation": "Cataloger",
+ "Abnormality": "Heat",
+ "Fighter Class" : "Raid",
+ "Buffes":["none"] 
+ },
+  {
+ "Name": "A.N.Y.A",
+ "Occupation": "Assiastant",
+ "Abnormality": "Combat",
+ "Fighter Class" : "Raid",
+ "Buffes":["none"] 
+ },
+  {
+ "Name": "Bone Appetit",
+ "Occupation": "Cook",
+ "Abnormality": "Necromancy",
+ "Fighter Class" : "Sentury",
+ "Buffes":["none"] 
+ }
+ ]
+}
